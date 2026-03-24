@@ -1,0 +1,1 @@
+{"name":"news-scraper","version":"1.0.0","title":"News Scraper","description":"News articles","categories":["News","Content"],"inputSchema":"INPUT.json","isPublic":true,"isCloud":true}

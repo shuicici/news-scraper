@@ -1,0 +1,1 @@
+{"title":"Input","type":"object","properties":{"source":{"type":"string","enum":["google-news","bbc","reuters"]},"query":{"type":"string"}},"required":["source"]}
