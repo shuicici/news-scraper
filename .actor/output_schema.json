@@ -1,0 +1,13 @@
+{
+    "actorOutputSchemaVersion": 1,
+    "title": "News Scraper Output",
+    "description": "Scraped news articles and headlines",
+    "properties": {
+        "articles": {
+            "title": "News Articles Dataset",
+            "description": "Link to the dataset containing scraped articles",
+            "type": "string",
+            "template": "{{links.apiDefaultDatasetUrl}}"
+        }
+    }
+}

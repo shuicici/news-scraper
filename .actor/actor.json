@@ -1,0 +1,16 @@
+{
+  "actorSpecification": 1,
+  "name": "news-scraper",
+  "version": "1.0",
+  "title": "News Scraper",
+  "description": "News articles",
+  "categories": [
+    "News",
+    "Content"
+  ],
+  "inputSchema": "INPUT.json",
+  "isPublic": true,
+  "isCloud": true,
+  "isAnonymous": false,
+  "output": "./output_schema.json"
+}
